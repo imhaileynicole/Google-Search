@@ -8,4 +8,4 @@
 - [Google Books API](https://developers.google.com/books/?hl=en)
 - [Bootstrap](http://getbootstrap.com)
 
-Create by : [Hailey Nicole] © 2020
+Create by : Hailey Nicole © 2020
